@@ -1,0 +1,7 @@
+{
+    "contentSecurity": {
+        "connectSrc": [
+            "https://google.com"
+        ]
+    }
+}
